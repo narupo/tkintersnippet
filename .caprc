@@ -1,0 +1,4 @@
+{@
+    alias.set("labelentry", "cat labelentry.py")
+    alias.set("sizeentry", "cat labelentry.py sizeentry.py")
+@}
